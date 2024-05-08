@@ -1,0 +1,11 @@
+Model Information:
+* title:	Night Elf
+* source:	https://sketchfab.com/3d-models/night-elf-9d5361211d614576a0bf2be56af22fec
+* author:	Mateus Schwaab (https://sketchfab.com/Mehrus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Night Elf" (https://sketchfab.com/3d-models/night-elf-9d5361211d614576a0bf2be56af22fec) by Mateus Schwaab (https://sketchfab.com/Mehrus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

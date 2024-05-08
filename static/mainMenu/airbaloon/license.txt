@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hot Air Balloon
+* source:	https://sketchfab.com/3d-models/hot-air-balloon-0794a171bc7d45949a8bd5f13ab3dd71
+* author:	Anton Krupnov (https://sketchfab.com/Anton_Krupnov)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hot Air Balloon" (https://sketchfab.com/3d-models/hot-air-balloon-0794a171bc7d45949a8bd5f13ab3dd71) by Anton Krupnov (https://sketchfab.com/Anton_Krupnov) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

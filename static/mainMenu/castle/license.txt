@@ -1,0 +1,11 @@
+Model Information:
+* title:	Castle Aincrad
+* source:	https://sketchfab.com/3d-models/castle-aincrad-d1069b4ceb054f328d26fd444e3ea617
+* author:	mhil (https://sketchfab.com/mhil)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Castle Aincrad" (https://sketchfab.com/3d-models/castle-aincrad-d1069b4ceb054f328d26fd444e3ea617) by mhil (https://sketchfab.com/mhil) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
